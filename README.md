@@ -10,7 +10,9 @@ In order to print the model, I plit it in two pieces, top and bottom. You can si
 
 Please feel free to improve the design and share the results! 
 
-Images:###![Main Contorller](https://github.com/dansku/arcade-controller-3d/raw/master/img/img001.png)
+## Images:
+
+![Main Contorller](https://github.com/dansku/arcade-controller-3d/raw/master/img/img001.png)
 ![Raspbery Pi Side](https://github.com/dansku/arcade-controller-3d/raw/master/img/img002.png)
 
 ![Bottom](https://github.com/dansku/arcade-controller-3d/raw/master/img/img003.png)
